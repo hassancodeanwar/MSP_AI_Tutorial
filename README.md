@@ -148,7 +148,7 @@ Comments are used to annotate code for documentation or clarification. They are 
 
 /*
 This is a multi-line comment
-Hi, MSP Mempers
+Hi, MSP Mempers.
 */
 
 ```
