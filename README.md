@@ -146,10 +146,10 @@ Comments are used to annotate code for documentation or clarification. They are 
 ```python
 # This is a single-line comment
 
-/*
+"""
 This is a multi-line comment
 Hi, MSP Mempers.
-*/
+"""
 
 ```
 
