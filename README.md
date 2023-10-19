@@ -146,10 +146,11 @@ Comments are used to annotate code for documentation or clarification. They are 
 ```python
 # This is a single-line comment
 
-"""
+/*
 This is a multi-line comment
-using triple quotes.
-"""
+Hi, MSP Mempers
+*/
+
 ```
 
 Comments are useful for explaining your code and making it more understandable for you and others who may read your code.
